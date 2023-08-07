@@ -1,0 +1,6 @@
+.idea
+steam-reviews-parser.*
+__pycache__
+data
+parsed
+*.csv
